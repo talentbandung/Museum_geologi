@@ -1,0 +1,1124 @@
+
+body
+{
+	width:100%;
+}
+.navbar {   font-size:20px;
+			position:fixed;
+			width: 100%;
+		}
+
+		.navbar .navbar-brand {
+			margin-left: 10px;
+			margin-right: 80px;
+		}
+		
+.kepala img
+{
+	position:cover;
+	width:1300px;
+	height:550px;
+}   
+.overlay
+{
+	position:absolute;
+	background-color:blue;
+	position:cover;
+	overflow:hidden;
+	width:1287px;
+	height:488px;
+	opacity:0.3;
+	margin-top:-488px;
+}
+.kepala h1
+{
+	margin-left:290px;
+	margin-top:-400px;
+	color:white;
+	position:absolute;
+	font-size:70px;
+	
+}
+.kepala h2
+{
+	margin-left:180px;
+	margin-top:-300px;
+	color:white;
+	position:absolute;
+	font-size:60px;
+}
+.kepala .btn
+{
+	margin-left:540px;
+	position:absolute;
+	margin-top:-200px;
+	width:150px;
+}
+.h
+{
+	margin-top:50px;
+	margin-left:525px;
+}
+.artikel1 .container 
+{
+	margin-top: 100px;
+	text-align: center;
+}
+#sejarah h1
+{
+	font-size:60px;
+}
+#sejarah p
+{
+	font-size:20px;
+}
+.artikel1 .container .btn
+{
+	margin-top:0px;
+}
+#sejarah .container hr
+{
+	width:50%;
+	border:2px solid;
+	border-color:#337ab7;
+}
+.artikel1 .container .row
+{
+	margin-top:0px;
+}
+.artikel1 .container .row .collapse
+{
+	margin-top:0px;
+}
+.artikel1 .container .row .collapse .card
+{
+	margin-top:0px;
+} 
+.materi
+{
+	margin-top:20px;
+}
+.materi h2
+{
+	text-align:center;
+	font-size:40px;
+}
+.materi p
+{
+	text-align:center;
+	font-size:20px;
+}
+.karo .jumbotron
+{
+	background-color:#337ab7;
+	width:80%;
+	height:80%;
+	margin-left:150px;
+}
+.karo .jumbotron img
+{
+	width:80%;
+	height:450px;
+}
+.jadwal h1
+{
+	text-align:center;
+	margin-top:50px;
+}
+.senin
+{   text-align:center;
+	margin-top:15px;
+}
+.lalu
+{   text-align:center;
+	margin-top:15px;
+}
+.lalu hr
+{
+	margin-top:30px;
+	color:#337ab7;
+	border:1px solid;
+	width:50%;
+}
+.garis hr
+{
+	margin-top:20px;
+	color:#337ab7;
+	border:1px solid;
+	width:25%;
+}
+.alert 
+{
+	width:80%;
+	margin-left:130px;
+	
+}
+.tiket .jumbotron 
+{
+background-color:#337ab7;
+height:300px;
+width:100%;
+}
+
+.tiket .jumbotron h1
+{
+	text-align:left;
+	margin-right:600px;
+	color:white;
+	margin-top:30px;
+}
+.tiket .jumbotron img
+{
+	margin-left:700px;
+	margin-top:-130px;
+	height:200px;
+}
+.art .container .row .col-md-4 .card
+{
+	margin-top:10px;
+	width:20rem;
+}
+
+		.container .zona {
+			margin-top: 50px;
+			background-color: #337ab7;
+			height: 400px;
+		}
+
+		.zona img {
+			padding-top: 30px;
+			padding-left: 135px;
+			position: relative;
+		}
+
+		.container .zona a:hover img {
+			transition: .3s;
+			transform: scale(1) rotate(360deg);
+		}
+
+		.container .zona a:hover img {
+			transtion: .3s;
+			transform: scale(1) rotate(720deg);
+		}
+		.coeg
+		{
+			margin-top:300px;
+		}
+		.coeg .card 
+		{
+			margin:0px;
+		}
+		.lokasi .jumbotron
+		{
+			margin:0px;
+		}
+		.lokasi iframe
+		{
+			padding-top:10px;
+		
+		}
+		
+		#footer
+		{
+			background-color:#337ab7;
+			padding-top:50px;
+			height:250px;
+			border-radius:40px solid;
+		}
+		#footer .container
+		{
+			opacity:.9;
+			background-color:white;
+		}
+		#footer .container img
+		{
+			width:170px;
+			height:170px;
+			margin-left:450px;
+			margin-top:-100px;
+			opacity:1;
+			
+		}
+		#footer .container .col-sm-12 
+		{
+			margin:0px;
+
+		}
+		
+		.card small
+		{
+			color:yellow;
+		}
+@media only screen 
+and (min-device-width : 471px) and (max-device-width : 760px) 
+{
+/* STYLES GO HERE */
+body
+{
+	width:100%;
+}
+.navbar {   font-size:20px;
+			position:fixed;
+			width: 100%;
+		}
+
+		.navbar .navbar-brand {
+			margin-left: 10px;
+			margin-right: 80px;
+		}
+		
+.kepala img
+{
+	position:cover;
+	width:480px;
+	height:350px;
+	margin-left:130px;
+}   
+.overlay
+{
+	position:absolute;
+	background-color:blue;
+	position:cover;	
+	overflow:hidden;
+	width:767px;
+	height:300px;
+	opacity:0.3;
+	margin-top:-295px;
+}
+.kepala h1
+{
+	margin-left:270px;
+	margin-top:-250px;
+	color:white;
+	position:absolute;
+	font-size:40px;
+	text-align:center;
+	
+}
+.kepala h2
+{
+	margin-left:160px;
+	margin-top:-320px;
+	color:white;
+	position:absolute;
+	font-size:40px;
+	opacity:0;
+}
+.kepala .btn
+{
+	margin-left:300px;
+	position:absolute;
+	margin-top:-80px;
+	width:150px;
+}
+.h
+{
+	margin-top:50px;
+	margin-left:250px;
+}
+.artikel1 .container 
+{
+	margin-top: 100px;
+	text-align: center;
+}
+#sejarah h1
+{
+	font-size:60px;
+}
+#sejarah p
+{
+	font-size:20px;
+}
+.artikel1 .container .btn
+{
+	margin-top:0px;
+}
+#sejarah .container hr
+{
+	width:50%;
+	border:2px solid;
+	border-color:#337ab7;
+}
+.artikel1 .container .row
+{
+	margin-top:0px;
+}
+.artikel1 .container .row .collapse
+{
+	margin-top:0px;
+}
+.artikel1 .container .row .collapse .card
+{
+	margin-top:0px;
+} 
+.materi
+{
+	margin-top:20px;
+}
+.materi h2
+{
+	text-align:center;
+	font-size:40px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.materi p
+{
+	text-align:center;
+	font-size:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.karo .jumbotron
+{
+	background-color:#337ab7;
+	width:80%;
+	height:80%;
+	margin-left:80px;
+}
+.karo .jumbotron img
+{
+	width:80%;
+	height:450px;
+}
+.jadwal h1
+{
+	text-align:center;
+	margin-top:50px;
+}
+.senin
+{   text-align:center;
+	margin-top:15px;
+}
+.lalu
+{   text-align:center;
+	margin-top:15px;
+}
+.lalu hr
+{
+	margin-top:30px;
+	color:#337ab7;
+	border:1px solid;
+	width:50%;
+}
+.garis hr
+{
+	margin-top:20px;
+	color:#337ab7;
+	border:1px solid;
+	width:25%;
+}
+.alert 
+{
+	width:80%;
+	margin-left:70px;
+	
+}
+.tiket .jumbotron 
+{
+background-color:#337ab7;
+height:300px;
+width:100%;
+}
+
+.tiket .jumbotron h1
+{
+	text-align:left;
+	margin-right:600px;
+	color:white;
+	margin-top:30px;
+	opacity:0;
+}
+.tiket .jumbotron img
+{
+	margin-left:50px;
+	margin-top:-550px;
+	height:200px;
+	width:600px;
+}
+.art
+{
+	margin-top:10px;
+	margin-left:-80px;
+	width:776px;
+}
+
+		.container .zona {
+			margin-top: 50px;
+			background-color: #337ab7;
+			height: 400px;
+		}
+
+		.zona img {
+			padding-top: 30px;
+			padding-left:0px;
+			position: relative;
+			width:700px;
+		}
+
+		.container .zona a:hover img {
+			transition: .3s;
+			transform: scale(1) rotate(360deg);
+		}
+
+		.container .zona a:hover img {
+			transtion: .3s;
+			transform: scale(1) rotate(720deg);
+		}
+		.coeg
+		{
+			margin-top:300px;
+		}
+		.coeg .card 
+		{
+			margin:0px;
+		}
+		.lokasi .jumbotron
+		{
+			margin:0px;
+		}
+		.lokasi iframe
+		{
+			padding-top:10px;
+			width:100%;
+		
+		}
+		
+		#footer
+		{
+			background-color:#337ab7;
+			padding-top:50px;
+			height:250px;
+			border-radius:40px solid;
+		}
+		#footer .container
+		{
+			opacity:.9;
+			background-color:white;
+		}
+		#footer .container img
+		{
+			width:170px;
+			height:170px;
+			margin-left:250px;
+			margin-top:-100px;
+			opacity:1;
+			
+		}
+		#footer .container .col-sm-12 
+		{
+			margin:0px;
+
+		}
+		
+		.card small
+		{
+			color:yellow;
+		}
+}
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-device-width : 300px) and (max-device-width : 346px) {
+/* STYLES GO HERE */
+body
+{
+	width:100%;
+}
+.navbar {   font-size:20px;
+			position:relative;
+			width: 100%;
+			border:1px solid blue;
+		}
+
+		.navbar .navbar-brand {
+			margin-left: 10px;
+			margin-right: 80px;
+		}
+		
+.kepala img
+{
+	position:cover;
+	width:100%;
+	height:300px;
+}   
+.overlay
+{
+	position:absolute;
+	background-color:blue;
+	position:cover;
+	overflow:hidden;
+	width:100%;
+	height:300px;
+	opacity:0.3;
+	margin-top:-300px;
+}
+.kepala h1
+{
+	margin-left:35px;
+	margin-top:-250px;
+	color:white;
+	position:absolute;
+	font-size:30px;
+	
+}
+.kepala h2
+{
+	margin-left:65px;
+	margin-top:-200px;
+	color:white;
+	position:absolute;
+	font-size:30px;
+}
+.kepala .btn
+{
+	margin-left:115px;
+	position:absolute;
+	margin-top:-100px;
+	width:150px;
+}
+.h
+{
+	margin-top:70px;
+	margin-left:30px;
+	size:20px;
+}
+.artikel1 .container
+{
+	margin-top: 100px;
+	width:280px;
+	
+	
+}
+#sejarah h1
+{  
+	font-size:30px;
+	margin-left:;
+	text-align:center;
+}
+#sejarah p
+{
+	text-align: justify;
+	font-size:15px;
+	margin-left:px;
+}
+.artikel1 .container .btn
+{
+	margin-left:px;
+}
+#sejarah .container hr
+{
+	width:50%;
+	border:2px solid;
+	border-color:#337ab7;
+	margin-left:60px;
+}
+.artikel1 .container .row
+{
+	margin-left:-20px;
+	width:280px;
+}
+.artikel1 .container .row .collapse
+{
+ margin-top:0px;
+ margin-left:px;
+	width:100%;
+ 
+}
+.artikel1 .container .row .collapse .card
+{
+	margin-top:0px;
+	
+} 
+.materi
+{
+	margin-top:20px;
+}
+.materi h2
+{
+	
+	font-size:25px;
+	width:280px;
+	margin-left:px;
+}
+.materi p
+{
+	text-align:justify;
+	text-align: justify;
+	font-size:15px;
+	margin-left:px;
+}
+.karo .jumbotron
+{
+	background-color:#337ab7;
+	width:84%;
+	height:40%;
+	margin-left:27px;
+}
+.karo .jumbotron img
+{
+	width:80%;
+	height:250px;
+}
+.jadwal h1
+{
+	text-align:center;
+	margin-top:50px;
+	font-size:20px;
+	margin-right:20px;
+}
+.senin
+{   text-align:center;
+	margin-top:15px;
+	margin-right:10px;
+}
+.lalu
+{   text-align:center;
+	margin-top:15px;
+	margin-right:15px;
+}
+.lalu hr
+{
+	margin-top:30px;
+	color:#337ab7;
+	border:1px solid;
+	width:50%;
+	margin-left:110px;
+}
+.garis hr
+{
+	margin-left:150px;
+	margin-top:20px;
+	color:#337ab7;
+	border:1px solid;
+	width:25%;
+}
+.alert 
+{
+	width:80%;
+	margin-left:35px;
+	
+}
+.tiket .jumbotron 
+{
+background-color:#337ab7;
+height:300px;
+width:84%;
+margin-left:30px;
+}
+
+.tiket .jumbotron h1
+{
+	text-align:left;
+	margin-right:600px;
+	color:white;
+	margin-top:30px;
+	opacity:0;
+}
+.tiket .jumbotron img
+{
+	margin-left:10px;
+	margin-top:-500px;
+	height:200px;
+	width:93%;
+}
+.art .container .row .col-md-4 .card
+{
+	margin-top:10px;
+	width:100%;
+}
+
+		.container .zona {
+			margin-top: 50px;
+			background-color: #337ab7;
+			height: 250px;
+			width:285px;
+		}
+
+		.zona img {
+			padding-top: 30px;
+			padding-left: 15px;
+			position: relative;
+			width:250px;
+			margin-left:px;
+		}
+
+		.container .zona a:hover img {
+			transition: .3s;
+			transform: scale(1) rotate(360deg);
+		}
+
+		.container .zona a:hover img {
+			transtion: .3s;
+			transform: scale(1) rotate(720deg);
+		}
+		.coeg
+		{
+			margin-top:100px;
+		}
+		.coeg .card 
+		{
+			margin:0px;
+			width:100%;
+		}
+		.lokasi .jumbotron
+		{
+			margin:0px;
+			width:317px;
+			height:400px;
+			width:100%;
+		}
+		
+		.lokasi iframe
+		{
+			
+			padding-top:10px;
+			padding-left:px;
+			width:280px;
+			height:250px;
+			
+		
+		}
+		#footer
+		{
+			background-color:#337ab7;
+			padding-top:50px;
+			height:250px;
+			border-radius:40px solid;
+			width:100%;
+		}
+		#footer .container
+		{
+			opacity:.9;
+			background-color:white;
+		}
+		#footer .container img
+		{
+			width:150px;
+			height:150px;
+			margin-left:75px;
+			margin-top:-100px;
+			opacity:1;
+			
+		}
+		#footer .container .col-sm-12 
+		{
+			margin:0px;
+
+		}
+		
+		.card small
+		{
+			color:yellow;
+		}
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 347px) and (max-device-width : 470px) {
+/* STYLES GO HERE */
+body
+{
+	width:100%;
+}
+.navbar {   font-size:20px;
+			position:relative;
+			width: 100%;
+			background-color:white;
+		}
+
+		.navbar .navbar-brand {
+			margin-left: 10px;
+			margin-right: 80px;
+		}
+		
+.kepala img
+{
+	position:cover;
+	width:100%;
+	height:300px;
+}   
+.overlay
+{
+	position:absolute;
+	background-color:blue;
+	position:cover;
+	overflow:hidden;
+	width:100%;
+	height:300px;
+	opacity:0.3;
+	margin-top:-300px;
+}
+.kepala h1
+{
+	margin-left:35px;
+	margin-top:-250px;
+	color:white;
+	position:absolute;
+	font-size:30px;
+	
+}
+.kepala h2
+{
+	margin-left:65px;
+	margin-top:-200px;
+	color:white;
+	position:absolute;
+	font-size:30px;
+}
+.kepala .btn
+{
+	margin-left:115px;
+	position:absolute;
+	margin-top:-100px;
+	width:150px;
+}
+.h
+{
+	margin-top:70px;
+	margin-left:30px;
+	size:20px;
+}
+.artikel1 .container
+{
+	margin-top: 100px;
+	width:280px;
+	
+	
+}
+#sejarah h1
+{  
+	font-size:30px;
+	margin-left:;
+	text-align:center;
+}
+#sejarah p
+{
+	text-align: justify;
+	font-size:15px;
+	margin-left:px;
+}
+.artikel1 .container .btn
+{
+	margin-left:px;
+}
+#sejarah .container hr
+{
+	width:50%;
+	border:2px solid;
+	border-color:#337ab7;
+	margin-left:60px;
+}
+.artikel1 .container .row
+{
+	margin-left:-20px;
+	width:280px;
+}
+.artikel1 .container .row .collapse
+{
+ margin-top:0px;
+ margin-left:px;
+	width:100%;
+ 
+}
+.artikel1 .container .row .collapse .card
+{
+	margin-top:0px;
+	
+} 
+.materi
+{
+	margin-top:20px;
+}
+.materi h2
+{
+	
+	font-size:25px;
+	width:280px;
+	margin-left:45px;
+}
+.materi p
+{
+	text-align:justify;
+	text-align: justify;
+	font-size:15px;
+	margin-left:px;
+}
+.karo .jumbotron
+{
+	background-color:#337ab7;
+	width:84%;
+	height:40%;
+	margin-left:27px;
+}
+.karo .jumbotron img
+{
+	width:80%;
+	height:250px;
+}
+.jadwal h1
+{
+	text-align:center;
+	margin-top:50px;
+	font-size:20px;
+	margin-right:20px;
+}
+.senin
+{   text-align:center;
+	margin-top:15px;
+	margin-right:10px;
+}
+.lalu
+{   text-align:center;
+	margin-top:15px;
+	margin-right:15px;
+}
+.lalu hr
+{
+	margin-top:30px;
+	color:#337ab7;
+	border:1px solid;
+	width:50%;
+	margin-left:110px;
+}
+.garis hr
+{
+	margin-left:150px;
+	margin-top:20px;
+	color:#337ab7;
+	border:1px solid;
+	width:25%;
+}
+.alert 
+{
+	width:80%;
+	margin-left:35px;
+	
+}
+.tiket .jumbotron 
+{
+background-color:#337ab7;
+height:300px;
+width:84%;
+margin-left:30px;
+}
+
+.tiket .jumbotron h1
+{
+	text-align:left;
+	margin-right:600px;
+	color:white;
+	margin-top:30px;
+	opacity:0;
+}
+.tiket .jumbotron img
+{
+	margin-left:10px;
+	margin-top:-500px;
+	height:200px;
+	width:93%;
+}
+.art .container .row .col-md-4 .card
+{
+	margin-top:10px;
+	margin-left:7px;
+	
+}
+
+		.container .zona {
+			margin-top: 50px;
+			background-color: #337ab7;
+			height: 350px;
+			width:335px;
+		}
+
+		.zona img {
+			padding-top: 30px;
+			padding-left: 35px;
+			position: relative;
+			width:300px;
+			margin-left:px;
+		}
+
+		.container .zona a:hover img {
+			transition: .3s;
+			transform: scale(1) rotate(360deg);
+		}
+
+		.container .zona a:hover img {
+			transtion: .3s;
+			transform: scale(1) rotate(720deg);
+		}
+		.coeg
+		{
+			margin-top:100px;
+		}
+		.coeg .card 
+		{
+			margin:0px;
+			width:100%;
+		}
+		.lokasi .jumbotron
+		{
+			margin:0px;
+			width:317px;
+			height:400px;
+			width:100%;
+		}
+		
+		.lokasi iframe
+		{
+			
+			padding-top:10px;
+			padding-left:20px;
+			width:320px;
+			height:250px;
+			
+		
+		}
+		#footer
+		{
+			background-color:#337ab7;
+			padding-top:50px;
+			height:250px;
+			border-radius:40px solid;
+			width:100%;
+		}
+		#footer .container
+		{
+			opacity:.9;
+			background-color:white;
+		}
+		#footer .container img
+		{
+			width:150px;
+			height:150px;
+			margin-left:100px;
+			margin-top:-100px;
+			opacity:1;
+			
+		}
+		#footer .container .col-sm-12 
+		{
+			margin:0px;
+
+		}
+		
+		.card small
+		{
+			color:yellow;
+		}
+}2
+ 
+
+ 
+/* iPads (portrait and landscape) ----------- */
+
+ 
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+/* STYLES GO HERE */
+}
+ 
+
+
+
